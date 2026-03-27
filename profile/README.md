@@ -1,5 +1,5 @@
-# Laboratório Púrpura
+[en](README.en.md)
 
-## Subtítulo.
+Seja bem vinda ao Laboratório Púrpura!
 
-Teste.
+Aqui estão hospedados nossos estudos na arte do software.
